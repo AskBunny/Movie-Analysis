@@ -1,4 +1,4 @@
-# Movie-Analysis
+# Movie-Analysis on Tableau
 
 ## Introduction
 
