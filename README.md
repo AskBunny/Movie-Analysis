@@ -71,18 +71,18 @@ different movie genres change over time, we’ve performed below mentioned analy
 
 3) Top 5 genres Analysis
 
-  a) Total Movies Count for Top 5 Genres
+    a) Total Movies Count for Top 5 Genres
 
-  b) Top 5 Genres IMDB Score vs Revenue vs Budget
+    b) Top 5 Genres IMDB Score vs Revenue vs Budget
 
 4) Top 10 Movies Detail Analysis
 
-  a) Top 10 Highest Grossing Movies
+    a) Top 10 Highest Grossing Movies
 
-  b) Top 10 Highest Grossing Color and B/W Movies
+    b) Top 10 Highest Grossing Color and B/W Movies
 
 5) 250 Movies Information
 
-  a) Number of blockbuster movies in last three decades
+    a) Number of blockbuster movies in last three decades
 
-  b) Top Movies Trend Distribution
+    b) Top Movies Trend Distribution
