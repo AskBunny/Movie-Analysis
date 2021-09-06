@@ -1,4 +1,6 @@
-# Movie-Analysis on Tableau
+# Movie-Analysis on Tableau - Capstone_Project
+
+## Professor : William Pourmajidi
 
 ## Introduction
 
