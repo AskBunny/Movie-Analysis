@@ -22,7 +22,7 @@ insights possibly useful for the critics.
 
 - movie_metadata.csv
 
-###Flow Diagram
+### Flow Diagram
 
 This is the flow diagram of the project. First, we’ve decided on the website for analysis which is IMDB.
 
@@ -60,7 +60,7 @@ The below mentioned are the tools and resources required to complete the project
 
 - Software: Microsoft Excel, Slack, Word
 
-##List of Analysis
+## List of Analysis
 
 To understand trend in average ratings for different movie genres over years (from 1975 to 2016) and Correlation between the trends for different genres and insight about how the people’s liking for the
 different movie genres change over time, we’ve performed below mentioned analysis
